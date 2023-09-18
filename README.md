@@ -1,4 +1,4 @@
-<div align="center"> <h2>世间真假皆我所求，苦与乐皆可奉酒。</h2> </div>
+<div align="center"> <h2>忠言逆耳。</h2> </div>
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ting24678&show_icons=true&locale=cn&layout=compact" alt="ting24678" />
